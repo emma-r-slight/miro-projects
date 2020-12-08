@@ -1,0 +1,23 @@
+{
+  "name": "miro-projects",
+  "version": "1.0.0",
+  "description": "a Miro integration to add new cards to kanBan board when changes are made to github projects board",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emma-r-slight/miro-projects.git"
+  },
+  "author": "Emma Slight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emma-r-slight/miro-projects/issues"
+  },
+  "homepage": "https://github.com/emma-r-slight/miro-projects#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
